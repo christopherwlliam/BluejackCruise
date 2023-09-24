@@ -1,1 +1,1 @@
-# BluejackCruise
+This project is the part of Data Structure course Assignment project. In this project we must create a program for Ticket Shop that can Buy Cruise Ticket, View All Ticket, and Delete Cruise Ticket using C Language
